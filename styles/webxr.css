@@ -17,11 +17,11 @@ html, body, #canvas, #loader {
 }
 
 a:link, a:visited {
-  color: #198EFB;
+  color: #FFFFFF;
 }
 
 #loader {
-  background: #2C3146;
+  background: #000000;
 }
 
 [data-unity-loaded='true'] #loader {
@@ -30,7 +30,7 @@ a:link, a:visited {
 
 #progress {
   bottom: 0;
-  height: 80px;
+  height: 10px;
   position: absolute;
   width: 0;
 }
